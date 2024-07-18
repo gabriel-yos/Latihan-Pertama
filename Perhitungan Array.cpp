@@ -4,7 +4,6 @@ using namespace std;
 
 int main() 
 {
-	cout << "davd" << endl;
 	//mendeklarasikan array dalam variable
 	int array1 [5] = { 7, 6, 9, 1, 16 };
 	int array2 [5];
